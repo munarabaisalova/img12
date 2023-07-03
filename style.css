@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(64, 226, 43);
+}
+.block {
+    width: 250px;
+    height: 300px;
+    border: 3px solid;
+    background: salmon;
+   background-image: url(https://avatarko.ru/img/kartinka/33/multfilm_lyagushka_32117.jpg);
+   background-size: cover;
+   background-position: 0%;
+   background-position-x:0% ;
+   transition: 2s;
+   border-radius: 2px;
+}
+.block:hover {
+    background-size: cover;
+    background-position: 0%;
+    background-position-x:0% ;
+    transition: 2s;
+width: 300px;
+height: 350px;
+border-radius: 50%;
+    background-image: url(https://amiel.club/uploads/posts/2022-03/1647628341_1-amiel-club-p-klassnie-kartinki-dlya-devochek-1.jpg);
+}
+.block-2 {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReh2UqchpejjP8_b3QcTvpkBfmlgS3f8BAU4K1wTN1Y0WScnRFWZBGgKdeP8KcXzj0Xps&usqp=CAU);
+    background-size: cover;
+    border: 3px solid;
+    box-shadow: 0px 0px 10px 10px;
+}
+.block-2:hover {
+    width: 320px;
+    height: 420px;
+    border-radius: 50%;
+    background-image: url(https://pibig.info/uploads/posts/2022-06/1655679896_1-pibig-info-p-kartinki-solnishko-dlya-detskogo-sada-kras-1.jpg);
+transition: 4s;
+background-size: cover;
+}
